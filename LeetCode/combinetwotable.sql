@@ -4,4 +4,4 @@ from Person left join Address
 on Person.PersonId = Address.PersonId
 ;
 
-problem link: https://leetcode.com/problems/combine-two-tables/
+-- problem link: https://leetcode.com/problems/combine-two-tables/
