@@ -1,2 +1,3 @@
 # DSA
-This repository is specifically for DSA preparation, the different questions are present from LeetCode, GeeksforGeeks, CodingNinjas and also some codechef.
+This repository is specifically for DSA preparation for internships and placements.
+The solutions here are from LeetCode, GFG, HackerEarth, HackerRank, InterviewBit and several other coding platforms
